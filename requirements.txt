@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-groq
+langchain-tavily
+beautifulsoup4
+requests
+python-dotenv
+streamlit
